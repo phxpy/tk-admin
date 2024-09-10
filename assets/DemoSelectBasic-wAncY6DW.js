@@ -1,0 +1,1 @@
+import{_ as c}from"./AppSelect-CseoopRe.js";import{o as l,f as a}from"./index-CKAl56Zl.js";const _={__name:"DemoSelectBasic",props:{label:String},setup(e){const o=["Foo","Bar","Fizz","Buzz"];return(r,s)=>{const t=c;return l(),a(t,{items:o,label:e.label,placeholder:"Select Item"},null,8,["label"])}}};export{_};
