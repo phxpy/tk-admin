@@ -1,1 +1,0 @@
-import{_ as c}from"./AppSelect-C_FJlgWS.js";import{o as l,f as a}from"./index-5BZbI_Vb.js";const _={__name:"DemoSelectBasic",props:{label:String},setup(e){const o=["Foo","Bar","Fizz","Buzz"];return(r,s)=>{const t=c;return l(),a(t,{items:o,label:e.label,placeholder:"Select Item"},null,8,["label"])}}};export{_};
