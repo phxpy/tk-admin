@@ -1,0 +1,1 @@
+const t=r=>r==null||r===""?!0:!!(Array.isArray(r)&&r.length===0),i=r=>r==null,n=r=>Array.isArray(r)&&r.length===0,s=r=>i(r)||n(r)||r===!1?"This field is required":!!String(r).trim().length||"This field is required",d=r=>t(r)?!0:/^https?:\/\/[^\s$.?#].\S*$/.test(String(r))||"URL is invalid";export{s as r,d as u};
