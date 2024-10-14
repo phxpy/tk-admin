@@ -1,0 +1,1 @@
+import{_ as l}from"./AppSelect-D2iDdZ6c.js";import{o as a,f as c}from"./index-CYp9PX9m.js";const n={__name:"DemoSelectBasic",props:{label:String,items:Array},setup(e){return(o,m)=>{const t=l;return a(),c(t,{items:e.items,label:e.label,placeholder:"Select Item"},null,8,["items","label"])}}};export{n as _};
